@@ -1425,3 +1425,7 @@ a.move-top span{
     max-height: 75px;
     max-width: 75px;
 }
+
+.bright-color {
+	color: #F1EB00;
+}

@@ -1429,3 +1429,7 @@ a.move-top span{
 .bright-color {
 	color: #F1EB00;
 }
+
+.foto-time {
+	max-height: 200px;
+}

@@ -378,7 +378,7 @@ li > a:only-child:after { content: ''; }
 /*--/banner-info--*/
 
 .banner {
-    background: #6a67ce;
+    background: #6432A7;
     position: relative;
     z-index: 1;
 }

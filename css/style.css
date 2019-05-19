@@ -1420,3 +1420,8 @@ a.move-top span{
 		max-width: 20%;
 	}
 }
+
+.small-logo {
+    max-height: 75px;
+    max-width: 75px;
+}

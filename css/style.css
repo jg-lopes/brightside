@@ -1432,3 +1432,9 @@ a.move-top span{
 .foto-time {
 	max-height: 200px;
 }
+
+@media (max-width: 1000px) {
+	.mapouter {
+		display:none !important; 
+	}
+}
